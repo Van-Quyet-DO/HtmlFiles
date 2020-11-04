@@ -1,0 +1,11 @@
+M:\Program\Python>python Person.py
+Name :  Raymond
+Byear:  1998
+
+Name :  Peter Chan
+Byear:  1997
+
+No. of Persons:  2
+No. of Persons:  2
+
+M:\Program\Python>
